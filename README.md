@@ -37,6 +37,10 @@ This pre-action will run the compiled `powerups` binary and feed it the `instrpk
 
 That's it. When you run the instrument for testing, powerups will process the includes and variables, add the generated content in the package file, and finally when you close Instruments and stop running, it'll remove the generated content from your source file.
 
+## Example
+
+For a simple use case from the command line run the `run-demo.sh` script in the repo root folder.
+
 ## License
 
 Copyright (c) Marin Todorov 2022 This code is provided under the MIT License.
