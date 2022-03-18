@@ -1,0 +1,5 @@
+<top>
+	<title>${title}</title>
+	<!-- include "nested.xml" subtitle="My Subtitle"  where "${pronoun}==my" -->
+	<!-- include "nested.xml" subtitle="Your Subtitle" where "${pronoun}==your" -->
+</top>
